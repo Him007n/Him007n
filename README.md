@@ -1,4 +1,4 @@
-![Logo](https://github.com/Him007n/Him007n/blob/main/Himesh%20Nagar%20(2).png)
+![Logo](https://github.com/Him007n/Him007n/blob/main/Untitled%20design%20(5).png)
 
 <h1 align="center">Hi 👋, I'm Himesh Nagar</h1>
 <h3 align="center">A dynamic Information Technology professional with a strong foundation in Java, Hibernate, Spring, MySQL, HTML, and CSS.</h3>
