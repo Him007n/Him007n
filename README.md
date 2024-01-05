@@ -19,7 +19,35 @@
 
 - 📫 How to reach me **yashjanakpur503@gmail.com**
 
+## Skills
+
+- **Languages:** Java (Core, Advanced), C, C++
+- **Frameworks:** Hibernate, Spring
+- **Web Technologies:** HTML, CSS, Servlet, JSP, Java Beans
+- **Database:** MySQL
+- **Other Technologies:** J2EE, MVC, JDBC, RESTful, Ajax, Struts/Springs
+- **Tools:** NetBeans
+- **Additional Skills:** Project Management, Team Leadership, Agile Methodology
+
+## Projects
+
+### [Project 1: Book Renting System](link-to-repository)
+- Developed a dynamic website for book rentals using HTML, CSS, Java, and MySQL.
+- Role: Developer | Duration: 1 month
+
+
+
+### [Project 2: Hostel Information Portal](link-to-repository)
+- Created a static website providing comprehensive hostel information using HTML, CSS, Java.
+- Role: Developer | Duration: 1 month
+
+
+### [Project 3: Vehicle Rental Management](link-to-repository)
+- Built a desktop-based application for efficient vehicle rental management using Hibernate, Java, and MySQL.
+- Role: Developer | Duration: 1 month
+
 <h3 align="left">Connect with me:</h3>
+Feel free to reach out for any questions or collaborations. Let's connect on 
 <p align="left">
 <a href="https://linkedin.com/in/himesh-nagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himesh-nagar" height="30" width="40" /></a>
 </p>
@@ -32,3 +60,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=him007n&show_icons=true&locale=en" alt="him007n" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=him007n&" alt="him007n" /></p>
+
+Happy coding! 🚀
