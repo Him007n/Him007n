@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=him007n&label=Profile%20views&color=0e75b6&style=flat" alt="him007n" /> </p>
 
-- 🔭 I’m currently working on **book renting**
+- 🔭 I’m currently working on **BookShare Hub**
 
 - 🌱 I’m currently learning **Spring, Bootstrap etc**
 
-- 👯 I’m looking to collaborate on **hostel information**
+- 👯 I’m looking to collaborate on **StayEase Connect**
 
-- 🤝 I’m looking for help with **a desktop-based software for vehicle renting**
+- 🤝 I’m looking for help with **a desktop-based software for vehicle RideReady Tracker**
 
 - 💬 Ask me about **java Hibernate, Spring, MySQL, HTML, and CSS**
 
@@ -31,18 +31,18 @@
 
 ## Projects
 
-### [Project 1: Book Renting System](link-to-repository)
+### [Project 1: BookShare Hub](link-to-repository)
 - Developed a dynamic website for book rentals using HTML, CSS, Java, and MySQL.
 - Role: Developer | Duration: 1 month
 
 
 
-### [Project 2: Hostel Information Portal](link-to-repository)
+### [Project 2: StayEase Connect](link-to-repository)
 - Created a static website providing comprehensive hostel information using HTML, CSS, Java.
 - Role: Developer | Duration: 1 month
 
 
-### [Project 3: Vehicle Rental Management](link-to-repository)
+### [Project 3: RideReady Tracker](link-to-repository)
 - Built a desktop-based application for efficient vehicle rental management using Hibernate, Java, and MySQL.
 - Role: Developer | Duration: 1 month
 
