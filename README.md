@@ -43,7 +43,7 @@
 
 
 ### [Project 3: RideReady Tracker](link-to-repository)
-- Built a desktop-based application for efficient vehicle rental management using Hibernate, Java, and MySQL.
+- Designed RideReady Tracker, a robust desktop application for efficient vehicle rental management, harnessing Hibernate, Java, and MySQL. Seamlessly integrating advanced features, ensuring streamlined rental operations and optimal resource utilization. With an intuitive user interface, RideReady Tracker empowers users to effortlessly manage bookings, track vehicles, and optimize fleet performance.
 - Role: Developer | Duration: 1 month
 
 <h3 align="left">Connect with me:</h3>
