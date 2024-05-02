@@ -37,7 +37,7 @@
 
 
 
-### [Project 2: StayEase Connect](link-to-repository)
+### [Project 2: StayEase Connect](https://github.com/Him007n/StayEase-Connect.git)
 - Created a static website providing comprehensive hostel information using HTML, CSS, Java.
 - Role: Developer | Duration: 1 month
 
