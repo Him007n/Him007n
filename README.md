@@ -38,7 +38,7 @@
 
 
 ### [Project 2: StayEase Connect](https://github.com/Him007n/StayEase-Connect.git)
-- Created a static website providing comprehensive hostel information using HTML, CSS, Java.
+- Your go-to portal for hassle-free student accommodation, facilitating streamlined searches with our curated selection of hostels. We prioritize comfort and convenience, ensuring an effortless living experience. we use HTML, CSS, Java technology .
 - Role: Developer | Duration: 1 month
 
 
