@@ -32,7 +32,7 @@
 ## Projects
 
 ### [Project 1: BookShare Hub](https://github.com/Him007n/BookShare-Hub.git)
-- Developed a dynamic website for book rentals using HTML, CSS, Java, and MySQL.
+- Crafted BookShare Hub, an innovative platform revolutionizing book rentals, leveraging HTML, CSS, Java, and MySQL. Seamlessly blending intuitive design with robust functionality, ensuring an exceptional user experience. Streamlined navigation empowers users to effortlessly discover, rent, and share their favorite books.
 - Role: Developer | Duration: 1 month
 
 
