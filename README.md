@@ -31,7 +31,7 @@
 
 ## Projects
 
-### [Project 1: BookShare Hub](link-to-repository)
+### [Project 1: BookShare Hub](https://github.com/Him007n/BookShare-Hub.git)
 - Developed a dynamic website for book rentals using HTML, CSS, Java, and MySQL.
 - Role: Developer | Duration: 1 month
 
